@@ -2,10 +2,10 @@
 #### I'm studying information technology at college and I'm recently starting to learn programming and its languages.
 
 <div style="display: inline_block"><br/>
-<a href="mail-to:madsj0304@gmail.com"><img align="center" alt="html" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:madsj0304@gmail.com"><img align="center" alt="html" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/marcos_adsj"><img align="center" alt="html" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/marcos10junior"><img align="center" alt="html" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
-</div>
+</div> <br>
 
 ![Marcos Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-adsj&show_icons=true&theme=radical)
 
